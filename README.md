@@ -80,7 +80,7 @@ To deploy the application to Heroku, follow these steps:
 
 ## 🗣️ Feedback
 
-If you have any feedback or suggestions, feel free to open an issue or reach out to me directly at [your-email@example.com](mailto:quote1503@gmail.com).
+If you have any feedback or suggestions, feel free to open an issue or reach out to me directly at [email](mailto:quote1503@gmail.com).
 
 ---
 
