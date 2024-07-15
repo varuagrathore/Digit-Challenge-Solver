@@ -3,9 +3,7 @@ this python script help you to solve any equation like you get in P and G online
 
 
 
-Here's a well-documented and attractive README file for your Digit Challenge Solver project, complete with emoticons to make it engaging:
 
----
 
 # 🧮 Digit Challenge Solver
 
