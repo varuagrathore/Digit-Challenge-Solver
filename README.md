@@ -8,6 +8,8 @@ this python script help you to solve any equation like you get in P and G online
 # 🧮 Digit Challenge Solver
 
 Welcome to the Digit Challenge Solver! This web-based application, built with Flask, allows users to input equations with missing digits represented by underscores (_). The solver then replaces the underscores with the appropriate digits to make the equation valid. 
+![image](https://github.com/user-attachments/assets/77aa38cf-944a-4193-8e9a-aa5cbec8eb0e)
+
 
 ## 📜 Overview
 
